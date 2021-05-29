@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zorinivanand
 - 👀 I’m interested in work
-- 🌱 I’m currently learning Java,Android,SQL
+- 🌱 I’m currently learning Java,Android,SQL,Spring,Kotlin
 - 💞️ I’m looking to collaborate on happy people
 - 📫 How to reach me zorinivanand@mail.ru
